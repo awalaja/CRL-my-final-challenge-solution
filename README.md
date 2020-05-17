@@ -1,2 +1,4 @@
 # CRL-my-final-challenge-solution
-   My solution to the final challenge of Conquering Responsive Layout course with flexbox
+   My solution to the final challenge of Conquering Responsive Layout course with flexbox</br>
+   <strong>Course title</strong>: Conquering Responsive Layouts
+   <strong>Course author</strong>: Kevin Powell
